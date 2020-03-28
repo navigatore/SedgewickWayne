@@ -1,2 +1,2 @@
 # SedgewickWayne
-Solutions of tasks from Algorithms books (by R. Sedgewick and K. Wayne, 4th Edition) in C++17
+This repo contains solutions of tasks from Algorithms books (by R. Sedgewick and K. Wayne, 4th Edition) written in C++17. The language used in the book is Java. In fact, only a small subset of Java features is used to make porting of source code to other languages as easy as possible. Unlike the authors of the book, I decided to use the latest C++ standard to make use of more advanced features of the language and C++ Standard Library. This approach allows writing more concise and/or more general code (which is incompatible with older C++ standards and probably more difficult to port to other languages).
